@@ -1,4 +1,4 @@
-## World Best Dog Sigol Jabre Jong
+## World Best Dog Shigol Jabjong
 ![644496679_RzIDJpru_E18489E185B5E18480E185A9E18485E185B31](https://github.com/NahyunEE/NahyunEE/assets/50420981/3bd22f4d-e26f-4962-ba6c-80f95e97b609)
 
 
