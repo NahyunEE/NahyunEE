@@ -8,8 +8,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NahyunEE&theme=blue_green)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NahyunEE&theme=blue_green)
 
-<h3 align="center">Contact</h3>
-<div align="center">
+<h3 align="left">Contact</h3>
+<div align="left">
 
   <a href="mailto:nahyunkim@gmail.com">
     <img
