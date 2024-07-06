@@ -8,3 +8,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NahyunEE&theme=blue_green)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NahyunEE&theme=blue_green)
 
+<h3 align="center">Contact</h3>
+<div align="center">
+
+  <a href="mailto:nahyunkim@gmail.com">
+    <img
+      src="https://img.shields.io/badge/nahyunkim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div
+<br>
+<br>
