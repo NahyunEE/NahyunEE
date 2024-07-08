@@ -11,9 +11,9 @@
 <h3 align="left">Contact</h3>
 <div align="left">
 
-  <a href="mailto:nahyunkim@gmail.com">
+  <a href="mailto:nahyumkim@gmail.com">
     <img
-      src="https://img.shields.io/badge/nahyunkim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/nahyumkim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div
 <br>
